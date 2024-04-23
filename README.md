@@ -6,7 +6,7 @@
 
         - 🌱 I’m currently learning cloud computing
 
-        - 👨‍💻 My portfolio website [TEXT TO SHOW](YOUR WEBSITE LINK)
+        - 👨‍💻 My portfolio website https://aishwarya-kb-gowda.github.io/
 
         - 💬 Ask me about java,html,css,cloud coputing,python...etc
 
