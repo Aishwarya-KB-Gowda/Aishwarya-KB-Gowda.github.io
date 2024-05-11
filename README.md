@@ -4,10 +4,10 @@
 
         - 🔭 I’m currently pursuing computer science and engineering
 
-        - 🌱 I’m currently learning cloud computing
+        - 🌱 I’m currently learning cyber security
 
         - 👨‍💻 My portfolio website https://aishwarya-kb-gowda.github.io/
 
-        - 💬 Ask me about java,html,css,cloud coputing,python...etc
+        - 💬 Ask me about java,html,css,cyber security,python...etc
 
         - 📫 How to reach me kbaishwarya7@gmail.com
